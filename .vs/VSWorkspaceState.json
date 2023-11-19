@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Services",
+    "\\Services\\NotificationService",
+    "\\Services\\OrderItemService",
+    "\\Services\\OrderService",
+    "\\Services\\ProductService",
+    "\\Services\\ShipmentService",
+    "\\Services\\ShippingMethodService",
+    "\\Services\\UserService",
+    "\\Services\\WarehouseService"
+  ],
+  "SelectedNode": "\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
